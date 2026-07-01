@@ -23,3 +23,4 @@ This script launches an entirely invisible console window and sets up a 1-pixel 
 2. Change the script and set `YOUR_SCRCPY_FOLDER` to your absolute path of `scrcpy` folder:
    ```batch
    set "scrcpy_dir=C:\Users\YourUsername\Desktop\scrcpy-win64-v4.0"
+3. Tip: Rename the scrcpy icon to scrcpy_icon.png (or whatever you prefer) to avoid a green pixel on the bar.
